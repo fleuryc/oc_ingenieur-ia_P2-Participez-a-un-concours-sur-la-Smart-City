@@ -9,7 +9,7 @@ Repository of OpenClassrooms' AI Engineer path, project #2 : use Jupyter Noteboo
 - Conda
 
 ````bash
-# conda install jupyterlab ipywidgets numpy pandas matplotlib seaborn plotly
+# conda install jupyterlab ipywidgets numpy pandas matplotlib seaborn plotly statsmodels
 # or :
 conda env update -f environment.yml
 ````
@@ -17,7 +17,7 @@ conda env update -f environment.yml
 - Pip
 
 ```bash
-# pip install jupyterlab ipywidgets numpy pandas matplotlib seaborn plotly
+# pip install jupyterlab ipywidgets numpy pandas matplotlib seaborn plotly statsmodels
 # or :
 pip install -r requirements.txt
 ```
