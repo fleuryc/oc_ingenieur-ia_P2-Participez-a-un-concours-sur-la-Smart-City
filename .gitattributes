@@ -1,0 +1,8 @@
+# https://zhauniarovich.com/post/2020/2020-10-clearing-jupyter-output-p3/
+#
+# add to your ~/.gitconfig :
+#
+# [filter "strip-notebook-output"]
+#     clean = "jupyter nbconvert --clear-output %f"
+#     required
+*.ipynb filter=strip-notebook-output
