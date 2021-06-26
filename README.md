@@ -5,12 +5,8 @@ Repository of OpenClassrooms' [AI Engineer path](https://openclassrooms.com/fr/p
 
 Goal : use Jupyter Notebook to analyse Parisian trees open data.
 
-
-# oc_ingenieur-ia_P2-Participez-a-un-concours-sur-la-Smart-City
-Repository of OpenClassrooms' AI Engineer path, project #2 : use Jupyter Notebook to analyse some open data
-
 You can see the results here :
-- [HTML page with interactive plots](https://fleuryc.github.io/oc_ingenieur-ia_P2-Participez-a-un-concours-sur-la-Smart-City/main.html)
+- [HTML page with interactive plots](https://fleuryc.github.io/oc_ingenieur-ia_P2-Participez-a-un-concours-sur-la-Smart-City/index.html)
 - [PDF file with static images](https://fleuryc.github.io/oc_ingenieur-ia_P2-Participez-a-un-concours-sur-la-Smart-City/main.pdf)
 
 ## Requirements
