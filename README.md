@@ -1,3 +1,11 @@
+
+# Data is for Good challenge : help Paris become a Smart-City !
+
+Repository of OpenClassrooms' [AI Engineer path](https://openclassrooms.com/fr/paths/188-ingenieur-ia), project #2.
+
+Goal : use Jupyter Notebook to analyse Parisian trees open data.
+
+
 # oc_ingenieur-ia_P2-Participez-a-un-concours-sur-la-Smart-City
 Repository of OpenClassrooms' AI Engineer path, project #2 : use Jupyter Notebook to analyse some open data
 
@@ -7,7 +15,7 @@ You can see the results here :
 
 ## Requirements
 
-- Conda
+  - Conda
 
 ````bash
 # conda install jupyterlab ipywidgets numpy pandas matplotlib seaborn plotly statsmodels
@@ -15,7 +23,7 @@ You can see the results here :
 conda env update -f environment.yml
 ````
 
-- Pip
+  - Pip
 
 ```bash
 # pip install jupyterlab ipywidgets numpy pandas matplotlib seaborn plotly statsmodels
@@ -23,7 +31,7 @@ conda env update -f environment.yml
 pip install -r requirements.txt
 ```
 
-- Fix Plotly issues with JupyterLab
+  - Fix Plotly issues with JupyterLab
 
 cf. [Plotly troubleshooting](https://plotly.com/python/troubleshooting/#jupyterlab-problems)
 
@@ -31,7 +39,8 @@ cf. [Plotly troubleshooting](https://plotly.com/python/troubleshooting/#jupyterl
 jupyter labextension install jupyterlab-plotly
 ```
 
-- If using Jupyter Notebook instead of JupyterLab, uncomment the following lines in the notebook :
+  - If using Jupyter Notebook instead of JupyterLab, uncomment the following lines in the notebook
+
 ````python
 import plotly.io as pio
 pio.renderers.default='notebook'
