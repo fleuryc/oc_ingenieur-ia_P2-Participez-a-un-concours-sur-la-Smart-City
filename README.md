@@ -10,8 +10,8 @@ Goal : use Jupyter Notebook to analyse Parisian trees open data.
 Repository of OpenClassrooms' AI Engineer path, project #2 : use Jupyter Notebook to analyse some open data
 
 You can see the results here :
-- [main.pdf](output/main.pdf)
-- [main.html](output/main.html)
+- [HTML page with interactive plots](https://fleuryc.github.io/oc_ingenieur-ia_P2-Participez-a-un-concours-sur-la-Smart-City/main.html)
+- [PDF file with static images](https://fleuryc.github.io/oc_ingenieur-ia_P2-Participez-a-un-concours-sur-la-Smart-City/main.pdf)
 
 ## Requirements
 
