@@ -1,4 +1,6 @@
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/7caff7db990447ec9dc8a7955884948f)](https://app.codacy.com/gh/fleuryc/oc_ingenieur-ia_P2-Participez-a-un-concours-sur-la-Smart-City?utm_source=github.com&utm_medium=referral&utm_content=fleuryc/oc_ingenieur-ia_P2-Participez-a-un-concours-sur-la-Smart-City&utm_campaign=Badge_Grade_Settings)
+
 # Data is for Good challenge : help Paris become a Smart-City !
 
 Repository of OpenClassrooms' [AI Engineer path](https://openclassrooms.com/fr/paths/188-ingenieur-ia), project #2.
